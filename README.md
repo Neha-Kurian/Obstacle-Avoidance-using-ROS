@@ -18,6 +18,8 @@ To visualise obstacles in rviz:
 For gmapping
 1. Do above steps and add map in rviz
 2. Move robot in gazebo using teleop_twist and see map in rviz
+
+
 Reference link:https://www.theconstructsim.com/exploring-ros-2-wheeled-robot-part-5/
 
 
